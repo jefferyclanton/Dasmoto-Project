@@ -1,10 +1,10 @@
 h1 {
-  background-image: url('pattern.jpeg');
+  background-image: url(../../pattern.jpeg);
   font-family: helvetica;
   font-size: 100px;
   font-weight: bold;
   color: khaki;
-  align: center;
+  text-align: center;
 }
 
 h2 {
